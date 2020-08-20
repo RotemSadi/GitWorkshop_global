@@ -1,3 +1,8 @@
 GIT Commands
 
+$ git init – create repository 
+$ git commit -m “ “ - save changes -m for message 
+$ git push origin master – push it to github 
+$ git checkout -b <> - new branch
+$ git checkout – move between branches 
 
